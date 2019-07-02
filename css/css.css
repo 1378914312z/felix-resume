@@ -1,0 +1,27 @@
+body{
+		background: url(../img/bg2.jpg);
+    }
+ 
+div{
+	border:50px;
+	border-radius: 5px;
+	background: url(../img/b1.jpg);
+	position: 80px;
+	background-size: 100% auto;
+	width: 65%;
+	height: 100%;
+	margin-left:auto;
+	margin-right:auto
+   }  
+ p{
+ 	 font-size:40px;
+   }  
+ h4{
+ 	font-size: 15px;
+ 	padding-left: 26px;
+   }
+--------------------- 
+作者：IT_zxl001 
+来源：CSDN 
+原文：https://blog.csdn.net/it_zxl001/article/details/79811874 
+版权声明：本文为博主原创文章，转载请附上博文链接！
